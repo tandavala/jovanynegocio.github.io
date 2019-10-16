@@ -3,4 +3,4 @@ name = jovanynegocio
 
 
 [servers.ghpages]
-target = ghpages+https://github.com/JovanyNegocio/jovanynegocio.github.io
+target = ghpages://jovanynegocio/https://github.com/JovanyNegocio/jovanynegocio.github.io.git
